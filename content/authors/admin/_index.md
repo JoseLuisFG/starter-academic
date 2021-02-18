@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: PhD in Medical Sciences
-    institution: University of Groningen
+    institution: University of Groningen (NL)
     year: 2021
   - course: MSc in Diabetes
-    institution: University of Glasgow
+    institution: University of Glasgow (UK)
     year: 2016
   - course: MD (ad honorum)
     institution: Benemérita Universidad Autónoma de Puebla (MX)
@@ -56,6 +56,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jose-luis-flores-guerrero/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jose_Flores-Guerrero
+  
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
