@@ -76,6 +76,6 @@ email: ""
 highlight_name: false
 ---
 
-Jose Luis is a PhD candidate working at the University Medical Center Groningen. His research interests include study of novel biomarkers for the study of the onset and progression of Type 2 Diabetes, Hypertension and cardiovascular disease. He is interested in the use of both frequentist and bayesian methods.    He collaborates with the National Institute of Astrophysics, Optics and Electronics (Mexico) in the study and development of new-non invasive technologies for the diagnosis of cardioemtabolic diseases.  
+Jose Luis is a PhD candidate working at the University Medical Center Groningen. His research interests include study of novel biomarkers for the study of the onset and progression of Type 2 Diabetes, Hypertension and Cardiovascular Disease. He collaborates with the National Institute of Astrophysics, Optics and Electronics (Mexico) in the study and development of new-non invasive technologies for the diagnosis of cardiometabolic diseases.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
